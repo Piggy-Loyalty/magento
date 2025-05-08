@@ -251,7 +251,7 @@ You can check these logs for troubleshooting and monitoring the integration's ac
 ## Support and Resources
 
 - **GitHub Repository**: [Piggy-Loyalty/magento](hhttps://github.com/Piggy-Loyalty/magento)
-- **Technical Support**: techniek@piggy.nl
+- **Technical Support**: development@leat.com
 - **Documentation**: Refer to individual module README files for detailed documentation
 
 ## License
